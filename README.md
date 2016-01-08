@@ -4,7 +4,7 @@ Course project project files
 
 ## Part 1
 
-Shiny application 
+Shiny application files
 
 ## Part 2
 
