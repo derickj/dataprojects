@@ -8,4 +8,4 @@ Shiny application
 
 ## Part 2
 
-Presentation
+Presentation files
