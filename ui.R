@@ -1,5 +1,5 @@
-require(shiny)
-require(rCharts)
+library (shiny)
+library (rCharts)
 options(RCHART_LIB = 'polycharts')
 # Define UI for dataset viewer application
 shinyUI(
